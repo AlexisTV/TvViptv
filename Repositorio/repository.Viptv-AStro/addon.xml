@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Viptv-Astro" name="[COLOR lime]Repositorio Viptv-Astro[/COLOR] Repo" version="1.0.1" provider-name="AlexisTV">
+    <extension point="xbmc.addon.repository" name="Repositorio Viptv-AStro">
+        <info>https://raw.githubusercontent.com/AlexisTV/TvViptv/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/AlexisTV/TvViptv/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/master/Repositorio/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio Viptv-AStro</summary>
+        <description>Disfruta de un contenido super completo con nuestras Build VipTv</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
